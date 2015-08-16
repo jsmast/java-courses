@@ -6,6 +6,6 @@ public class Calculate {
 		int sum = first + second;
 		int minus = first - second;
 		System.out.println("Sum " + sum);
-		System.out.println("Minus " + minus);
+		System.out.println("Minus1111 " + minus);
 	}
 }
